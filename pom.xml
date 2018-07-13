@@ -797,7 +797,7 @@
 				<encoding>UTF-8</encoding>  
 			</configuration>  
 		</plugin>  
-    	<!-- tomcat7插件。使用方式：tomcat:run -->
+    	<!-- tomcat8插件。使用方式：tomcat:run -->
 		<plugin>
 			<groupId>org.apache.tomcat.maven</groupId>
 			<artifactId>tomcat8-maven-plugin</artifactId>
